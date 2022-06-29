@@ -5,7 +5,7 @@
 - 📫 You can contact me on LinkedIn.
 
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/http://www.linkedin.com/in/aditya-dargan-ad2912)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-dargan-ad2912/)
 
 <!---
 AdityaDargan/AdityaDargan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
